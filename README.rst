@@ -1,5 +1,7 @@
 django-slowtests
 ========================
+.. image:: http://slack.pinaxproject.com/badge.svg
+   :target: http://slack.pinaxproject.com/
 
 .. image:: https://img.shields.io/travis/realpython/django-discover-slowest-tests-runner.svg
     :target: https://travis-ci.org/realpython/django-discover-slowest-tests-runner
